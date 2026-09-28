@@ -1,0 +1,25 @@
+{
+  "name": "verso-docs",
+  "version": "0.0.0",
+  "description": "Docs with two faces: one for humans, one for agents. Facts pulled from source code, procedures verified in CI.",
+  "keywords": [
+    "docs",
+    "documentation",
+    "agents",
+    "llm",
+    "mdx"
+  ],
+  "homepage": "https://github.com/sarahxsanders/verso-docs#readme",
+  "bugs": {
+    "url": "https://github.com/sarahxsanders/verso-docs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahxsanders/verso-docs.git"
+  },
+  "license": "MIT",
+  "author": "Sarah Sanders",
+  "files": [
+    "README.md"
+  ]
+}
